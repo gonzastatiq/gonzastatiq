@@ -96,6 +96,102 @@ I'm passionate about bridging the gap between **design** and **development** —
 
 ---
 
+### 💼 Featured Projects
+
+> A selection of client projects built at **[Statiq](https://statiq.me)**. Source code is private — available upon request for serious inquiries.
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🛋️ Velora Interiors
+
+**Luxury e-commerce for high-end interior design**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=fff)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+
+Headless Shopify storefront with Next.js App Router, Sanity CMS for editorial content, and real-time inventory sync. ISR for sub-second page loads.
+
+</td>
+<td width="50%">
+
+#### 🏥 Clínica Aura
+
+**Medical clinic website with appointment booking**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+
+Custom WordPress theme with AJAX appointment booking, local SEO optimization, schema markup, and a fast mobile-first experience. Achieved Top 3 on Google Maps for target keywords.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🌎 Terra Latina
+
+**Real estate platform for Latin American properties**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![Mapbox](https://img.shields.io/badge/Mapbox-000?style=flat-square&logo=mapbox&logoColor=fff)
+
+Full-stack property listing platform with interactive Mapbox maps, advanced search filters, currency conversion, and a PostgreSQL-backed REST API.
+
+</td>
+<td width="50%">
+
+#### 💪 FitPulse App
+
+**Cross-platform fitness & health tracking app**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=fff)
+
+Flutter app with Firebase auth, Firestore real-time sync, Apple Health / Google Fit integration, and animated dashboard with weekly metrics, workout tracking, and profile management.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🫒 Olivar del Sur
+
+**Premium olive oil e-commerce with subscriptions**
+
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=fff)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+
+Custom WooCommerce theme for a family-owned olive oil brand. Stripe-powered subscriptions, webhook-based order processing, temperature-controlled shipping zones, and a harvest calendar feature.
+
+</td>
+<td width="50%">
+
+#### 🎬 Kreativ Studio
+
+**Creative agency portfolio with 3D interactions**
+
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=fff)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=fff)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=fff)
+
+Cinematic portfolio site built with Astro SSG, featuring a Three.js particle network background, GSAP scroll-driven animations, and Cloudinary-optimized responsive imagery.
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🌍 A Bit More About Me
 
 ```yaml
