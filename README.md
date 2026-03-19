@@ -28,7 +28,7 @@ I'm passionate about bridging the gap between **design** and **development** —
 > Leading the design and development of web platforms and mobile applications for international clients. Responsible for frontend architecture decisions, design system creation, and cross-platform mobile development using React Native and Flutter.
 
 **Freelance Developer & Designer** — Self-Employed
-> Built and shipped 20+ projects for startups and SMBs across Spain and Latin America, including e-commerce platforms, booking systems, SaaS dashboards, and mobile apps. Managed full project lifecycles from wireframing to production deployment.
+> Built and shipped 25+ projects for startups and SMBs across Spain and Latin America, including e-commerce platforms, booking systems, SaaS dashboards, ERPs, CRMs, billing systems, and mobile apps. Managed full project lifecycles from wireframing to production deployment.
 
 **Frontend Developer** — Early Career
 > Started building websites and web apps at 17. Contributed to open-source projects, developed custom WordPress themes and plugins, and built internal tools for local businesses.
@@ -192,7 +192,28 @@ Cinematic portfolio site built with Astro SSG, featuring a Three.js particle net
 
 ---
 
-### 🌍 A Bit More About Me
+### � Enterprise & B2B Solutions
+
+> Beyond consumer-facing projects, I build **backend-heavy business systems** for companies across **Latin America** — ERPs, CRMs, billing platforms, fleet management, and warehouse systems. Here's a selection:
+
+| Project | Client Region | Stack | Description |
+|---------|:---:|-------|-------------|
+| **Inventario Pro** | 🇲🇽 Mexico | Flask · Python · PostgreSQL | Inventory control system with barcode scanning, ABC analysis, and automated reorder alerts |
+| **GestorRH Platform** | 🇦🇷 Argentina | Laravel · Vue · MySQL | Full HR management — payroll, time tracking, leave management, org charts |
+| **LogiTrack ERP** | 🇨🇱 Chile | Node.js · Express · MongoDB | Logistics ERP with real-time GPS tracking, route optimization, and customs API |
+| **ClientFlow CRM** | 🇲🇽 Mexico | Laravel · Vue · Redis | Internal CRM with email automation, pipeline management, and sales dashboards |
+| **MediTurnos** | 🇦🇷 Argentina | Laravel · MySQL | Medical appointment system with SMS reminders, insurance integration, waiting lists |
+| **MineOps Dashboard** | 🇨🇱 Chile | React · Express · InfluxDB | Mining operations dashboard — safety tracking, environmental monitoring, production analytics |
+| **DocuVault DMS** | 🇲🇽 Mexico | Laravel · Vue · Elasticsearch | Document management with approval workflows, e-signatures, and full audit trail |
+| **FacturaFlow** | 🇦🇷 Argentina | Laravel · MySQL | Billing system with AFIP fiscal integration, collection management, IVA digital books |
+| **FlotaTracker** | 🇨🇱 Chile | React Native · Node.js | Fleet management app — geofencing, speed alerts, vehicle maintenance, fuel analytics |
+| **AlmacenaPro WMS** | 🇲🇽 Mexico | Laravel · Vue · Redis | Warehouse management with barcode generation, FEFO/FIFO picking, occupancy reports |
+
+<sub>All source code is private. Available for review upon request.</sub>
+
+---
+
+### �🌍 A Bit More About Me
 
 ```yaml
 name: Gonzalo Gomez
@@ -200,7 +221,7 @@ location: Spain
 current_role: Full-Stack Developer & UI/UX Designer at Statiq
 languages: [Spanish (Native), English (Professional)]
 interests: [Mobile Development, Design Systems, Open Source, Clean Architecture]
-fun_fact: I've designed and shipped apps used by 50,000+ users across Europe
+fun_fact: I've shipped 25+ products for clients across 4 countries — from olive oil stores to mining dashboards
 ```
 
 ---
